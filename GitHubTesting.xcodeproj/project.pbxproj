@@ -12,6 +12,7 @@
 		5E056D8A2485258400236B3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E056D882485258400236B3B /* Main.storyboard */; };
 		5E056D8C2485258600236B3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E056D8B2485258600236B3B /* Assets.xcassets */; };
 		5E056D8F2485258600236B3B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E056D8D2485258600236B3B /* LaunchScreen.storyboard */; };
+		5E58DC5E2485285100B04D82 /* PhotoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E58DC5D2485285100B04D82 /* PhotoVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5E056D8B2485258600236B3B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E056D8E2485258600236B3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E056D902485258600236B3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E58DC5D2485285100B04D82 /* PhotoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				5E056D8B2485258600236B3B /* Assets.xcassets */,
 				5E056D8D2485258600236B3B /* LaunchScreen.storyboard */,
 				5E056D902485258600236B3B /* Info.plist */,
+				5E58DC5D2485285100B04D82 /* PhotoVC.swift */,
 			);
 			path = GitHubTesting;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				5E056D872485258400236B3B /* ViewController.swift in Sources */,
 				5E056D852485258400236B3B /* AppDelegate.swift in Sources */,
+				5E58DC5E2485285100B04D82 /* PhotoVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
